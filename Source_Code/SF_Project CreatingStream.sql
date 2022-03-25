@@ -1,0 +1,1 @@
+create or replace stream heart_check on table heart_disease;
