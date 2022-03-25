@@ -17,3 +17,6 @@ The folder contains Data Definition Language (DDL) for creating,
     Basically, we created the task to automate the changes in consumer table(heart_disease_tgt) whenever we update the rows,delete the rows or modify the rows 
     in landing table(heart_disease_scd) automatically it will be changed in consumer table(heart_disease_tgt) with updated or modified records with containing 
     all the previous dml operations done i.e historical data with update one.
+
+## Documentation Folder
+The Folder contains the documenation part which contains a excel file with the task list and a doc file which contains all the documents related to the project and unit testing part as well.
